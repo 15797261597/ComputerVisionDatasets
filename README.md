@@ -99,7 +99,7 @@ waitting for updating
 
 waitting for updating
 
-## 4. Datasets for Pose Estimation
+## 5. Datasets for Pose Estimation
 | Dataset | Hosted Source | Images | Size | Hyperlinks | Type | Ground Truth |
 | :--------   | :-----   | :----: | :----: | :---- | :----: |:----: |
 | Willow and Challenge Dataset | Willow Garage | - | 4.4GB | https://repo.acin.tuwien.ac.at/tmp/permanent/dataset_index.php | RGB-D frames |Yes|
@@ -107,5 +107,9 @@ waitting for updating
 | T-LESS | CVUT | - | - |http://cmp.felk.cvut.cz/t-less/ | RGB-D frames |Yes|
 | SXID | CVUT | 7datasets | - |http://cmp.felk.cvut.cz/sixd/challenge_2017/ | RGB-D frames |Yes|
 | ITODD | MVTec | - | 60GB |http://www.mvtec.com/company/research/datasets/mvtec-itodd/ | RGB-D frames |Yes|
+
+
+## **致谢**
+感谢为此份数据集贡献自己力量的朋友们（排名部分先后，贡献不分大小）：孙斌、陈煜
 
 
