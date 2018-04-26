@@ -56,6 +56,10 @@ I collect a set of datasets for the sake of 3D reconstruction, hyperlinks for do
 | Piazza Bra (NEW)  | SAMANTHA | 331| 358 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
 | San Giacomo   | SAMANTHA | 269| 522 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
 | Navona   | SAMANTHA | 92| 432 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+| gerrard-hall | colmap | 100 | 886.1 MB | https://drive.google.com/drive/folders/0B6q7-Pen0AbDTk5WM2hkUjF0Znc | Yes |
+| person-hall | colmap | 330 | 3.2 GB | https://drive.google.com/drive/folders/0B6q7-Pen0AbDTk5WM2hkUjF0Znc | Yes |
+| south-building | colmap | 128 | 233.9 MB | https://drive.google.com/drive/folders/0B6q7-Pen0AbDTk5WM2hkUjF0Znc | Yes |
+
 
 
 
@@ -65,6 +69,7 @@ I collect a set of datasets for the sake of 3D reconstruction, hyperlinks for do
 | :--------   | :-----   | :----: | :----: | :---- | :----: |
 | TUM-LSI | TUM | 234 | - | https://github.com/NavVisResearch/NavVis-Indoor-Dataset/ | Yes |
 | Tanks & Temple | Tanks & Temple | - | - | https://www.tanksandtemples.org/download/ | Yes |
+
 
 
 
@@ -110,6 +115,6 @@ waitting for updating
 
 
 ## **致谢**
-感谢为此份数据集贡献自己力量的朋友们（排名部分先后，贡献不分大小）：孙斌、陈煜
+感谢为此份数据集贡献自己力量的朋友们（排名不分先后，贡献不分大小）：孙斌、陈煜
 
 
