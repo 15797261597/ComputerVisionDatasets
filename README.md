@@ -11,20 +11,20 @@ I collect a set of datasets for the sake of 3D reconstruction, hyperlinks for do
 | Quad6k  | BigSFM / DISCO  | - | 8 GB | http://vision.soic.indiana.edu/projects/disco/ | Yes |
 | Dubrovnik6K | Location & Recognition | - | 3.4 GB | http://www.cs.cornell.edu/projects/p2f/ | No |
 | Rome16K | Location & Recogniton | - | 7 GB | http://www.cs.cornell.edu/projects/p2f/ | No |
-| Alamo | 1Dsfm | - | 2 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Ellis Island | 1Dsfm | - | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Madrid Metropolis | 1Dsfm | - | 0.7 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Montreal Notre Dame | 1Dsfm | - | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| NYC_Library | 1Dsfm | - | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Piazza del Popolo | 1Dsfm | - | 1.5 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Piccadilly | 1Dsfm | - | 3.7 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Roman Forum | 1Dsfm | - | 1.5 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Tower of London | 1Dsfm | - | 1.1 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Trafalgar | 1Dsfm | - | 8.5 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Union Square | 1Dsfm | - | 3.8 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Vienna  | 1Dsfm | - | 3.3 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Yorkminster | 1Dsfm | - | 2.2 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Gendarmenmarkt | 1Dsfm | - | 1.0 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Alamo | 1Dsfm | 2915 | 2.1 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Ellis Island | 1Dsfm | 2588 | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Madrid Metropolis | 1Dsfm | 1344 | 739.7 MB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Montreal Notre Dame | 1Dsfm | 2298 | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| NYC_Library | 1Dsfm | 2550 | 1.7 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Piazza del Popolo | 1Dsfm | 2251 | 1.5 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Piccadilly | 1Dsfm | 7351 | 4.0 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Roman Forum | 1Dsfm | 2364 | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Tower of London | 1Dsfm | 1576 | 1.1 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Trafalgar | 1Dsfm | 15685 | 9.1 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Union Square | 1Dsfm | 5961 | 3.8 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Vienna  | 1Dsfm | 6288 | 3.3 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Yorkminster | 1Dsfm | 3368 | 2.3 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+| Gendarmenmarkt | 1Dsfm | 1463 | 1.0 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
 
 ### Small Object
 | Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
