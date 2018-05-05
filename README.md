@@ -1,120 +1,35 @@
-# Datasets for 3D Reconstruction & 3D Deep Learning
+# Datasets for Computer Vision
 
-I collect a set of datasets for the sake of 3D reconstruction, hyperlinks for downloading are given below:
+## Description
 
-## 1. Datasets for 3D Reconstruction (SfM & MVS)
+I collect a set of datasets for computer vision and help researchers and students in their research. Types of datasets includes:
+* 3d reconstruction (SfM, MVS)
+* semantic segmentation
+* feature & descriptor learning
+* depth estimation
+* pose estimation
 
-### Internet Images
-| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
-| :--------   | :-----   | :----: | :----: | :---- | :----: |
-| Notre Dame | Photo Tourism group | 715 | 1.8 GB | http://phototour.cs.washington.edu/datasets/| No |
-| Quad6k  | BigSFM / DISCO  | - | 8 GB | http://vision.soic.indiana.edu/projects/disco/ | Yes |
-| Dubrovnik6K | Location & Recognition | - | 3.4 GB | http://www.cs.cornell.edu/projects/p2f/ | No |
-| Rome16K | Location & Recogniton | - | 7 GB | http://www.cs.cornell.edu/projects/p2f/ | No |
-| Alamo | 1Dsfm | 2915 | 2.1 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Ellis Island | 1Dsfm | 2588 | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Madrid Metropolis | 1Dsfm | 1344 | 739.7 MB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Montreal Notre Dame | 1Dsfm | 2298 | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| NYC_Library | 1Dsfm | 2550 | 1.7 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Piazza del Popolo | 1Dsfm | 2251 | 1.5 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Piccadilly | 1Dsfm | 7351 | 4.0 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Roman Forum | 1Dsfm | 2364 | 1.6 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Tower of London | 1Dsfm | 1576 | 1.1 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Trafalgar | 1Dsfm | 15685 | 9.1 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Union Square | 1Dsfm | 5961 | 3.8 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Vienna  | 1Dsfm | 6288 | 3.3 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Yorkminster | 1Dsfm | 3368 | 2.3 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
-| Gendarmenmarkt | 1Dsfm | 1463 | 1.0 GB | http://www.cs.cornell.edu/projects/1dsfm/ | No |
+Hyperlinks for downloading are given in corresponding folder. Besides, some links of open source code are given. 
 
-### Small Object
-| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
-| :--------   | :-----   | :----: | :----: | :---- | :----: |
-| bird | TUM | 21 | 45.9 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
-| beethoven | TUM | 33 | 77.9 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
-| bunny | TUM | 36 | 84.9 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
-| head | TUM | 33 | 77.9 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
-| pig | TUM | 27 | 63.7 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
-| david | Unknow | 26 | 1.9 MB  | https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/david | No |
-| Ajay | Unknow | 38 | 2.5 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/Ajay | No |
-| Apple | Unknow | 15 | 532.3 KB MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/Apple | No |
-| cathedral | Unknow | 11 | 12.8 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/cathedral | No |
-| elephant | Unknow | 52 | 23.7 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/elephant | No |
-| ET | Unknow | 9 | 1.5 MB | https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/ET | No |
-| kermit | Unknow | 11 | 1.9 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/kermit | No |
+## How to Use these Datasets
 
+This repo is created for research, all datasets are open source and hosted on corresponding website, commercial utilizations are not allowed.  
+## How to Contribute to This Repository
 
-
-
-
-### Outdoor Scenes
-| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
-| :--------   | :-----   | :----: | :----: | :---- | :----: |
-| Pozzoveggiani  | SAMANTHA | 54 | 4.7 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
-| Piazza Dante   | SAMANTHA | 39 | 5.3 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
-| Piazza Erbe   | SAMANTHA | 259 | 24 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
-| Piazza Bra   | SAMANTHA | 380 | 821 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
-| Piazza Bra (NEW)  | SAMANTHA | 331| 358 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
-| San Giacomo   | SAMANTHA | 269| 522 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
-| Navona   | SAMANTHA | 92| 432 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
-| gerrard-hall | colmap | 100 | 886.1 MB | https://drive.google.com/drive/folders/0B6q7-Pen0AbDTk5WM2hkUjF0Znc | Yes |
-| person-hall | colmap | 330 | 3.2 GB | https://drive.google.com/drive/folders/0B6q7-Pen0AbDTk5WM2hkUjF0Znc | Yes |
-| south-building | colmap | 128 | 233.9 MB | https://drive.google.com/drive/folders/0B6q7-Pen0AbDTk5WM2hkUjF0Znc | Yes |
-
-
-
-
-
-### Large-Scale Indoor Scenes
-| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
-| :--------   | :-----   | :----: | :----: | :---- | :----: |
-| TUM-LSI | TUM | 234 | - | https://github.com/NavVisResearch/NavVis-Indoor-Dataset/ | Yes |
-| Tanks & Temple | Tanks & Temple | - | - | https://www.tanksandtemples.org/download/ | Yes |
-
-
-
-
-### Google Streetview
-| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
-| :--------   | :-----   | :----: | :----: | :---- | :----: |
-| Streetview | Google | INF | INF | https://console.cloud.google.com/storage/browser/streetview_image_pose_3d/?pli=1 | Yes |
-
-
-
-### Aerial Datasets
-| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
-| :--------   | :-----   | :----: | :----: | :---- | :----: |
-| PKU | PKU GIL Lab | - | - | - | waitting for uploading | No |
-
-
-## 2. Datasets for Semantic Segmentation
-
-| Dataset | Hosted Source | Images | Size | Hyperlinks | Type |
-| :--------   | :-----   | :----: | :----: | :---- | :----: |
-| KITTI | TUM | - | - | http://www.cvlibs.net/datasets/kitti/eval_semantics.php | Dynamic Scenes |
-|  PKU| PKU GIL Lab | - | -  | https://github.com/PKUGIL/PSSI | Aerial Photo |
-| Cityscapes | Cityscapes | - | - | https://www.cityscapes-dataset.com/ | Urban Street Scenes |
-
-
-
-## 3. Datasets for Feature&Descriptor Learning
-
-waitting for updating
-
-## 4. Datasets for Depth Estimation
-
-waitting for updating
-
-## 5. Datasets for Pose Estimation
+If the type of corresponding dataset already exists, you can modify README.md.  If the type of corresponding dataset not exists, create a folder with a file named README.md put in the folder. Format of dataset is listed below:
 | Dataset | Hosted Source | Images | Size | Hyperlinks | Type | Ground Truth |
 | :--------   | :-----   | :----: | :----: | :---- | :----: |:----: |
-| Willow and Challenge Dataset | Willow Garage | - | 4.4GB | https://repo.acin.tuwien.ac.at/tmp/permanent/dataset_index.php | RGB-D frames |Yes|
-|TUW| Automation and Control Institute Tuwien | - | 2.43GB  | https://repo.acin.tuwien.ac.at/tmp/permanent/dataset_index.php | RGB-D frames |Yes|
-| T-LESS | CVUT | - | - |http://cmp.felk.cvut.cz/t-less/ | RGB-D frames |Yes|
-| SXID | CVUT | 7datasets | - |http://cmp.felk.cvut.cz/sixd/challenge_2017/ | RGB-D frames |Yes|
-| ITODD | MVTec | - | 60GB |http://www.mvtec.com/company/research/datasets/mvtec-itodd/ | RGB-D frames |Yes|
+
+You can add some needed items and remove the item that don't need.
 
 
-## **致谢**
+## Contact
+
+* email: 1701213988@pku.edu.cn
+
+* wechat: rainyChen24
+
+## **致谢 (Thanks to)**
 感谢为此份数据集贡献自己力量的朋友们（排名不分先后，贡献不分大小）：孙斌、陈煜
 
 
