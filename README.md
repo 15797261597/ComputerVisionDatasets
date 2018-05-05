@@ -17,8 +17,10 @@ This repo is created for research, all datasets are open source and hosted on co
 ## How to Contribute to This Repository
 
 If the type of corresponding dataset already exists, you can modify README.md.  If the type of corresponding dataset not exists, create a folder with a file named README.md put in the folder. Format of dataset is listed below:
+
 | Dataset | Hosted Source | Images | Size | Hyperlinks | Type | Ground Truth |
 | :--------   | :-----   | :----: | :----: | :---- | :----: |:----: |
+| name | group name | 00 | xx MB | http:// | reconstruction | Yes/No |
 
 You can add some needed items and remove the item that don't need.
 
