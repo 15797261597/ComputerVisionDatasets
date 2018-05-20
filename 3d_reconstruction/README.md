@@ -75,7 +75,14 @@
 ## 6. Aerial Datasets
 | Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
 | :--------   | :-----   | :----: | :----: | :---- | :----: |
-| PKU | PKU GIL Lab | - | - | - | waitting for uploading | No |
+| Dataset-UAV-123 | - | - | - | 13 GB | https://drive.google.com/uc?export=download&confirm=ptF1&id=0B6sQMCU1i4NbNGxWQzRVak5yLWs | No |
+
+## 7. Ambiguous Datasets
+| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
+| :--------   | :-----   | :----: | :----: | :---- | :----: |
+| data_ambiguous | HKUST | - | - | - | https://drive.google.com/drive/folders/0B0XWe1u3AJHFYTAyNGlHYXZhcnc | No |
+| Guangzhou_stadium | HKUST | 157 | 1.1 GB | - | https://drive.google.com/drive/folders/0B0XWe1u3AJHFYTAyNGlHYXZhcnc | No |
+| temple | HKUST | 341 | 1.8 GB | - | https://drive.google.com/drive/folders/0B0XWe1u3AJHFYTAyNGlHYXZhcnc | No |
 
 
 
